@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - poll_ios_stats (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - poll_ios_stats (from `.symlinks/plugins/poll_ios_stats/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  poll_ios_stats:
+    :path: ".symlinks/plugins/poll_ios_stats/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  poll_ios_stats: 17a5f5e1b61ae5b9aec0cbfd240569f34c3190c6
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.9.1
